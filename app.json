@@ -1,13 +1,13 @@
 {
     "name": " ՏհɑƘíժɑ | Music bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://telegra.ph//file/e6bed9d18d412550d9a48.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Yukki",
-    "YukkiMusicBot",
+    "ՏհɑƘíժɑ",
+    "ՏհɑƘíժɑ | Music bot",
     "telegram-bot",
     "pyrogram"
     ],
@@ -70,7 +70,7 @@
       },      
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
+        "value": "https://telegra.ph//file/25f69306dec7393f8420e.jpg",
         "required": true
       }
     },
