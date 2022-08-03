@@ -17,7 +17,7 @@ call_1 : "Bot requires **Admin** Permission to invite assistant account to your 
 call_2 : "Assistant is banned in your group or channel, please unban.\n\n**Assistant Username:** @{0}\n**Assistant ID:** {1}"
 call_3 : "Exception Occured While Inviting Assistant Account to your chat.\n\n**Reason**: {0}"
 call_4 : "Bot requires **Invite Users Via Link** Permission to invite assistant account to your chat group."
-call_5 : "Assistant Account will be joining in 5 Seconds..Please Wait!"
+call_5 : "Transaction Processing Please Wait 5 Seconds..Please Wait!"
 call_6 : "Assistant Account[{0}] Joined Successfully.\n\nStarting Music Now"
 call_7 : "**Harmful Admin Right Given **\n\nPlease remove **BAN USERS** rights from the bot."
 call_8 : "**Harmful Admin Right Given **\n\nPlease remove **ADD NEW ADMINS** rights from the bot."
@@ -142,7 +142,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
+play_1 : "🔄 On The Way Your Song Is Coming... Please Wait!"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
